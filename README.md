@@ -1,5 +1,5 @@
 # CC-OPD
-This repo collects all the necessary parameters of the case study in paper "Chance-constraint optimal power dispatch of district cooling system under spatially-related demands"
+This repo collects all the necessary parameters of the case study in paper "Chance-constrained strategic operation of district cooling system with spatial-temporal demands"
 
 ## File descriptions
 __heat_loads.csv:__  
